@@ -5,14 +5,154 @@
     ],
     "links": [
         {
-            "label": "Update Tracker",
-            "url": "https://akuma874.github.io/New-Project-on-UT/",
+            "label": "OT Sheet 2026",
+            "url": "https://uhgazure-my.sharepoint.com/:x:/r/personal/abhishek_kumar_optum_com1/Documents/User%20Story/Useful%20Data/OT%20Sheet%20-%202026.xlsx?d=w09591bf373964ba9a054cce9c45fdb8d&csf=1&web=1&e=x1I2da",
+            "section": "Documents"
+        },
+        {
+            "label": "Prod Deploy US Format",
+            "url": "https://uhgazure-my.sharepoint.com/:x:/r/personal/yashpal_s_rawat_optum_com/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B25d84125-3d73-41a5-983e-c6382ca73e6c%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1752844528219&web=1",
+            "section": "Documents"
+        },
+        {
+            "label": "Test Data Sheet",
+            "url": "https://uhgazure-my.sharepoint.com/:x:/r/personal/abhishek_kumar_optum_com1/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B4f592afb-a218-4dfc-8dde-5fa51a447ee8%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1752859033182&web=1",
+            "section": "Documents"
+        },
+        {
+            "label": "Dep. & Daily Responsibility",
+            "url": "https://uhgazure-my.sharepoint.com/:x:/r/personal/yashpal_s_rawat_optum_com/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7Bb36d3579-0788-4fd6-bf7a-d410e64e55ac%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1752844571893&web=1",
+            "section": "Documents"
+        },
+        {
+            "label": "Attendance Tracker",
+            "url": "https://uhgazure-my.sharepoint.com/:x:/r/personal/ramakanta_panda_optum_com/_layouts/15/Doc2.aspx?action=edit&sourcedoc=%7B79573ba1-f031-4507-a321-8447e2909f9b%7D&wdOrigin=TEAMS-MAGLEV.teamsSdk_ns.rwc&wdExp=TEAMS-TREATMENT&wdhostclicktime=1752851379009&web=1",
+            "section": "Documents"
+        },
+        {
+            "label": "Test Cases",
+            "url": "https://uhgazure-my.sharepoint.com/:x:/r/personal/yashpal_s_rawat_optum_com/_layouts/15/Doc.aspx?sourcedoc=%7BAE706DDA-C3AC-4AB3-8E65-477F0696F69F%7D&file=Test%20Cases.xlsx&wdOrigin=TEAMS-MAGLEV.undefined_ns.rwc&action=default&mobileredirect=true",
+            "section": "Documents"
+        },
+        {
+            "label": "Visio Discrepancy Tracker",
+            "url": "https://uhgazure.sharepoint.com/:x:/r/sites/optumrxopa/TR/_layouts/15/Doc.aspx?action=edit&sourcedoc=%7Bf93da667-b396-47a6-ac5f-cee71b7f2534%7D&wdExp=TEAMS-TREATMENT&web=1&TeamsCID=25074902-e68e-4906-8acd-904685f1a30d",
+            "section": "Documents"
+        },
+        {
+            "label": "UAT Library",
+            "url": "https://uhgazure-my.sharepoint.com/:o:/r/personal/rona_cruz_optum_com/_layouts/15/Doc.aspx?sourcedoc=%7B6c4e80ad-a043-4883-bdc6-f56fb40a52ce%7D&action=edit&wd=target(Team%20Process.one%7C8bc75d32-96d9-4eba-8cd8-7b54f8718169%2FIVR%20Profile%20%5Bneeds%20to%20be%20updated%5D%7Ca8c171fc-b4d2-49a1-8f1b-6af6335e4414%2F)&wdorigin=NavigationUrl",
+            "section": "Documents"
+        },
+        {
+            "label": "Leave Tracker",
+            "url": "https://uhgazure-my.sharepoint.com/:x:/r/personal/ankesh_sahai_optum_com/_layouts/15/Doc.aspx?sourcedoc=%7BA221227C-6A04-4A49-9306-D1A5667850CE%7D&file=IVR%20Rx%20LeaveTracker.xlsx&action=default&mobileredirect=true&DefaultItemOpen=1&isSPOFile=1&ovuser=db05faca-c82a-4b9d-b9c5-0f64b6755421%2Cabhishek_kumar%40optum.com&wdExp=TEAMS-TREATMENT&web=1&clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNjA0MDQwMTcyMyJ9&linkOpenTime=1777900273387",
+            "section": "Documents"
+        },
+        {
+            "label": "HOOP Calendar and Holiday",
+            "url": "https://uhgazure.sharepoint.com/sites/OptumOC/OCArch/SitePages/Architecture%20Data%20Reports.aspx",
+            "section": "Documents"
+        },
+        {
+            "label": "Conversation Manager",
+            "url": "http://wn000089927/CM/cl2/CMProfileSearch.htm?ContactID=00001bM32JJ6B30T&Submit=Retrieve+Profile&indexCMEnv=2",
+            "section": "Documents"
+        },
+        {
+            "label": "Rally - Titans",
+            "url": "https://rally1.rallydev.com/#/372955719412d/userstories?view=2b05fff1-e292-4c8b-b92f-0ed0950b7036",
             "section": "Application Links"
         },
         {
-            "label": "IRCTC",
-            "url": "https://www.irctc.co.in/nget/train-search",
-            "section": "Documents"
+            "label": "Rally - IVR",
+            "url": "https://rally1.rallydev.com/#/372955719412ud/workviews?view=c476159a-5647-43cb-a045-579f5f4eaf19",
+            "section": "Application Links"
+        },
+        {
+            "label": "Web Sim CL2 - Stage",
+            "url": "https://cl2-dev-scxml.uhc.com/simulatorTesting/Main/?env=CL2-STAGE",
+            "section": "Application Links"
+        },
+        {
+            "label": "Web Sim CL2 - Prod",
+            "url": "https://cl2-dev-scxml.uhc.com/simulatorTesting/Main/?env=CL2-PROD",
+            "section": "Application Links"
+        },
+        {
+            "label": "GAX - Titans",
+            "url": "https://cl2-stg-gaxadmin.uhc.com/gax/?login#/!/view:com.cm.list/1/CfgPerson/CfgFolder:19536",
+            "section": "Application Links"
+        },
+        {
+            "label": "WWE - Stage",
+            "url": "https://cl2-stg-wwe-v2.uhc.com/ui/ad/v1/index.html",
+            "section": "Application Links"
+        },
+        {
+            "label": "WWE - Prod",
+            "url": "https://cl2-wwe-v2.uhc.com/ui/ad/v1/index.html",
+            "section": "Application Links"
+        },
+        {
+            "label": "Splunk - Prod",
+            "url": "https://omni-splunk.optum.com/en-US/app/optum_gvp/search?q=search%207639577903*%0A(index%3Dcba_gvp%20OR%20index%3Dcba_omni)%0A%7C%20rex%20%22%27Cisco-Gucid%27%5B%5Cs%5D%2B%27(%3F%3CGucid%3E%5B%5E%5C%27%5D*)%22%0A%7C%20dedup%20Gucid%20%20%0A%7C%20rex%20%22%27ENT_CallUUID%27%5B%5Cs%5D%2B%27(%3F%3CCallUUID%3E%5B%5E%5C%27%5D*)%22%0A%7C%20dedup%20CallUUID%0A%7C%20rex%20%22%27ENT_VQ%27%5B%5Cs%5D%2B%27(%3F%3CVQ%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_CallType%27%5B%5Cs%5D%2B%27(%3F%3CCallType%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_Language%27%5B%5Cs%5D%2B%27(%3F%3CLanguage%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_ToAddress%27%5B%5Cs%5D%2B%27(%3F%3CTFN%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_FromAddress%27%5B%5Cs%5D%2B%27(%3F%3CFromAddress%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_SubFunction%27%5B%5Cs%5D%2B%27(%3F%3CSubFunction%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_SubFunctionDetail%27%5B%5Cs%5D%2B%27(%3F%3CSubFunctionDetail%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_SurveyFlag%27%5B%5Cs%5D%2B%27(%3F%3CSurveyOffer%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27HOOP_EmptyVAG%27%5B%5Cs%5D%2B%27(%3F%3CVAG%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_OffshoreRestrictFlag%27%5B%5Cs%5D%2B%27(%3F%3COffshoreRestrictFlag%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_RoutedPriority%27%5B%5Cs%5D%2B%27(%3F%3CRoutedPriority%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_ContactConstituentType%27%5B%5Cs%5D%2B%27(%3F%3CContactConstituentType%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_Function%27%5B%5Cs%5D%2B%27(%3F%3CFunction%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_Action%27%5B%5Cs%5D%2B%27(%3F%3CAction%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ORX_PatientId%27%5B%5Cs%5D%2B%27(%3F%3CPatientId%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_TFNType%27%5B%5Cs%5D%2B%27(%3F%3CTFNType%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ORX_CAGCarrier%27%5B%5Cs%5D%2B%27(%3F%3CCAGCarrier%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ORX_CAGAccount%27%5B%5Cs%5D%2B%27(%3F%3CCAGAccount%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_Client%27%5B%5Cs%5D%2B%27(%3F%3CClient%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_ClientType%27%5B%5Cs%5D%2B%27(%3F%3CClientType%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27HOOP_Reason%27%5B%5Cs%5D%2B%27(%3F%3CHOOP_Reason%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27HOOP_OpenFlag%27%5B%5Cs%5D%2B%27(%3F%3CHOOP_OpenFlag%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27HOOP_CalendarName%27%5B%5Cs%5D%2B%27(%3F%3CHOOP_CalendarName%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_IdealAgentExpression%27%5B%5Cs%5D%2B%27(%3F%3CIdealAgentExpression%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_IdealAgentDeviation%27%5B%5Cs%5D%2B%27(%3F%3CIdealAgentDeviation%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_AgentNotificationTxt%27%5B%5Cs%5D%2B%27(%3F%3CAgentNotificationTxt%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_CampaignCD%27%5B%5Cs%5D%2B%27(%3F%3CCampaignCD%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27HOOP_AgentCount%27%5B%5Cs%5D%2B%27(%3F%3CAgentCount%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_TransferReason%27%5B%5Cs%5D%2B%27(%3F%3CENT_TransferReason%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_ProgramCD%27%5B%5Cs%5D%2B%27(%3F%3CProgramCD%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27vplaystring%27%5B%5Cs%5D%2B%27(%3F%3Cvplaystring%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27CSS_VoiceEWT%27%5B%5Cs%5D%2B%27(%3F%3CVoiceEWT%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27HOOP_AgentReadyCount%27%5B%5Cs%5D%2B%27(%3F%3CAgentReadyCount%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27RTargetAgentSelected%27%5B%5Cs%5D%2B%27(%3F%3CAgentSelected%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27RTargetsWaited%27%5B%5Cs%5D%2B%27(%3F%3CRTargetsWaited%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27GSW_CAMPAIGN_NAME%27%5B%5Cs%5D%2B%27(%3F%3CCAMPAIGN_NAME%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27RTargetObjectSelected%27%5B%5Cs%5D%2B%27(%3F%3CRTargetObjectSelected%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_TherapyCd%27%5B%5Cs%5D%2B%27(%3F%3CTherapyCd%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_AgentID%27%5B%5Cs%5D%2B%27(%3F%3CAgentID%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_Unit%27%5B%5Cs%5D%2B%27(%3F%3CUnit%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_Segment%27%5B%5Cs%5D%2B%27(%3F%3CSegment%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_OrgLvl4%27%5B%5Cs%5D%2B%27(%3F%3COrgLvl4%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_ContactStateCD%27%5B%5Cs%5D%2B%27(%3F%3CContactStateCD%3E%5B%5E%5C%27%5D*)%22%0A%7C%20eval%20Timestamp%3Dstrftime(_time%2C%22%25m%2F%25d%2F%25Y%20%25H%3A%25M%3A%25S%22)%0A%7C%20table%20Timestamp%2C%20Gucid%2C%20TFN%2CVQ%2C%20CallType%2C%20Language%2C%20Client%20%2C%20ClientType%20ContactConstituentType%2C%20Function%2C%20SubFunction%20%2C%20SubFunctionDetail%2C%20ENT_TransferReason%2C%20TFNType%2COffshoreRestrictFlag%2CCAGCarrier%2C%20CAGAccountRoutedPriority%20%2CHOOP_Reason%2C%20HOOP_OpenFlag%20%2C%20SurveyOffer%2C%20HOOP_CalendarName%2C%20RoutedPriority%2C%20IdealAgentExpression%20%2C%20IdealAgentDeviation%20%2C%20RTargetsWaited%20%2C%20RTargetObjectSelected%20%2C%20FromAddress%2C%20Action%2C%20VAG%2C%20AgentNotificationTxt%2C%20PatientId%2C%20CampaignCD%2C%20vplaystring%2C%20CAMPAIGN_NAME%2C%20ProgramCD%2C%20TherapyCd%2C%20VoiceEWT%2C%20AgentCount%20%2C%20AgentReadyCount%20%2C%20Unit%2C%20Segment%2C%20OrgLvl4%2C%20ContactStateCD%2C%20AgentSelected%0A%7C%20strcat%20%22%27%22%20Gucid%20Gucid%0A%7C%20strcat%20%22%27%22%20CallUUID%20CallUUID%0A%7C%20sort%20Timestamp%20descstamp%20desc&display.page.search.mode=smart&dispatch.sample_ratio=1&earliest=-60m%40m&latest=now&sid=1766585043.568650_B410FDDE-A10F-4E40-9AC1-AB683E01105C&display.page.search.tab=statistics&display.general.type=statistics",
+            "section": "Application Links"
+        },
+        {
+            "label": "Splunk - Stage",
+            "url": "https://npe-splunk.optum.com/en-US/app/search/search?q=search%207639577903*%0A(index%3Dcba_gvp%20OR%20index%3Dcba_omni)%0A%7C%20rex%20%22%27Cisco-Gucid%27%5B%5Cs%5D%2B%27(%3F%3CGucid%3E%5B%5E%5C%27%5D*)%22%0A%7C%20dedup%20Gucid%20%20%0A%7C%20rex%20%22%27ENT_CallUUID%27%5B%5Cs%5D%2B%27(%3F%3CCallUUID%3E%5B%5E%5C%27%5D*)%22%0A%7C%20dedup%20CallUUID%0A%7C%20rex%20%22%27ENT_VQ%27%5B%5Cs%5D%2B%27(%3F%3CVQ%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_CallType%27%5B%5Cs%5D%2B%27(%3F%3CCallType%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_Language%27%5B%5Cs%5D%2B%27(%3F%3CLanguage%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_ToAddress%27%5B%5Cs%5D%2B%27(%3F%3CTFN%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_FromAddress%27%5B%5Cs%5D%2B%27(%3F%3CFromAddress%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_SubFunction%27%5B%5Cs%5D%2B%27(%3F%3CSubFunction%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_SubFunctionDetail%27%5B%5Cs%5D%2B%27(%3F%3CSubFunctionDetail%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_SurveyFlag%27%5B%5Cs%5D%2B%27(%3F%3CSurveyOffer%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27HOOP_EmptyVAG%27%5B%5Cs%5D%2B%27(%3F%3CVAG%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_OffshoreRestrictFlag%27%5B%5Cs%5D%2B%27(%3F%3COffshoreRestrictFlag%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_RoutedPriority%27%5B%5Cs%5D%2B%27(%3F%3CRoutedPriority%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_ContactConstituentType%27%5B%5Cs%5D%2B%27(%3F%3CContactConstituentType%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_Function%27%5B%5Cs%5D%2B%27(%3F%3CFunction%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_Action%27%5B%5Cs%5D%2B%27(%3F%3CAction%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ORX_PatientId%27%5B%5Cs%5D%2B%27(%3F%3CPatientId%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_TFNType%27%5B%5Cs%5D%2B%27(%3F%3CTFNType%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ORX_CAGCarrier%27%5B%5Cs%5D%2B%27(%3F%3CCAGCarrier%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ORX_CAGAccount%27%5B%5Cs%5D%2B%27(%3F%3CCAGAccount%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_Client%27%5B%5Cs%5D%2B%27(%3F%3CClient%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_ClientType%27%5B%5Cs%5D%2B%27(%3F%3CClientType%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27HOOP_Reason%27%5B%5Cs%5D%2B%27(%3F%3CHOOP_Reason%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27HOOP_OpenFlag%27%5B%5Cs%5D%2B%27(%3F%3CHOOP_OpenFlag%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27HOOP_CalendarName%27%5B%5Cs%5D%2B%27(%3F%3CHOOP_CalendarName%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_IdealAgentExpression%27%5B%5Cs%5D%2B%27(%3F%3CIdealAgentExpression%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_IdealAgentDeviation%27%5B%5Cs%5D%2B%27(%3F%3CIdealAgentDeviation%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_AgentNotificationTxt%27%5B%5Cs%5D%2B%27(%3F%3CAgentNotificationTxt%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_CampaignCD%27%5B%5Cs%5D%2B%27(%3F%3CCampaignCD%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27HOOP_AgentCount%27%5B%5Cs%5D%2B%27(%3F%3CAgentCount%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_TransferReason%27%5B%5Cs%5D%2B%27(%3F%3CENT_TransferReason%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_ProgramCD%27%5B%5Cs%5D%2B%27(%3F%3CProgramCD%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27vplaystring%27%5B%5Cs%5D%2B%27(%3F%3Cvplaystring%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27CSS_VoiceEWT%27%5B%5Cs%5D%2B%27(%3F%3CVoiceEWT%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27HOOP_AgentReadyCount%27%5B%5Cs%5D%2B%27(%3F%3CAgentReadyCount%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27RTargetAgentSelected%27%5B%5Cs%5D%2B%27(%3F%3CAgentSelected%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27RTargetsWaited%27%5B%5Cs%5D%2B%27(%3F%3CRTargetsWaited%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27GSW_CAMPAIGN_NAME%27%5B%5Cs%5D%2B%27(%3F%3CCAMPAIGN_NAME%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27RTargetObjectSelected%27%5B%5Cs%5D%2B%27(%3F%3CRTargetObjectSelected%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_TherapyCd%27%5B%5Cs%5D%2B%27(%3F%3CTherapyCd%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_AgentID%27%5B%5Cs%5D%2B%27(%3F%3CAgentID%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_Unit%27%5B%5Cs%5D%2B%27(%3F%3CUnit%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_Segment%27%5B%5Cs%5D%2B%27(%3F%3CSegment%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_OrgLvl4%27%5B%5Cs%5D%2B%27(%3F%3COrgLvl4%3E%5B%5E%5C%27%5D*)%22%0A%7C%20rex%20%22%27ENT_ContactStateCD%27%5B%5Cs%5D%2B%27(%3F%3CContactStateCD%3E%5B%5E%5C%27%5D*)%22%0A%7C%20eval%20Timestamp%3Dstrftime(_time%2C%22%25m%2F%25d%2F%25Y%20%25H%3A%25M%3A%25S%22)%0A%7C%20table%20Timestamp%2C%20Gucid%2C%20TFN%2CVQ%2C%20CallType%2C%20Language%2C%20Client%20%2C%20ClientType%20ContactConstituentType%2C%20Function%2C%20SubFunction%20%2C%20SubFunctionDetail%2C%20ENT_TransferReason%2C%20TFNType%2COffshoreRestrictFlag%2CCAGCarrier%2C%20CAGAccountRoutedPriority%20%2CHOOP_Reason%2C%20HOOP_OpenFlag%20%2C%20SurveyOffer%2C%20HOOP_CalendarName%2C%20RoutedPriority%2C%20IdealAgentExpression%20%2C%20IdealAgentDeviation%20%2C%20RTargetsWaited%20%2C%20RTargetObjectSelected%20%2C%20FromAddress%2C%20Action%2C%20VAG%2C%20AgentNotificationTxt%2C%20PatientId%2C%20CampaignCD%2C%20vplaystring%2C%20CAMPAIGN_NAME%2C%20ProgramCD%2C%20TherapyCd%2C%20VoiceEWT%2C%20AgentCount%20%2C%20AgentReadyCount%20%2C%20Unit%2C%20Segment%2C%20OrgLvl4%2C%20ContactStateCD%2C%20AgentSelected%0A%7C%20strcat%20%22%27%22%20Gucid%20Gucid%0A%7C%20strcat%20%22%27%22%20CallUUID%20CallUUID%0A%7C%20sort%20Timestamp%20descstamp%20desc&display.page.search.mode=smart&dispatch.sample_ratio=1&earliest=-4h%40m&latest=now&display.page.search.tab=statistics&display.general.type=statistics&sid=1766580257.237301_7F0B3C99-9E3C-46CC-B8C8-408D15F6EACA",
+            "section": "Application Links"
+        },
+        {
+            "label": "New Cyara Portal",
+            "url": "https://www.cyaraportal.us/cyarawebportal/979/testcase/testcases",
+            "section": "Application Links"
+        },
+        {
+            "label": "IVR & BOT Sharepoint",
+            "url": "https://uhgazure.sharepoint.com/sites/OptumRx_IVR/Shared%20Documents/Forms/AllItems.aspx?csf=1&web=1&e=oLslbK&FolderCTID=0x0120006FC00BDFB790574995101F78C4698A56&id=%2Fsites%2FOptumRx%5FIVR%2FShared%20Documents%2FShared%20Documents%2FIVR%2FVUI&viewid=46f62e98%2D82c3%2D41f6%2D9654%2D212119802790",
+            "section": "Application Links"
+        },
+        {
+            "label": "Splunk - IVR",
+            "url": "https://omni-splunk.optum.com/en-US/app/optum_gvp/peg_request_respond_by_ani?form.time_tok.earliest=-60m%40m&form.time_tok.latest=now&form.calllog_tok=1&form.peg_tok=1&form.pegsearch_tok=*&form.env_token=*&form.ani_token=%222DAA4872-73D3-46EE-AFFF-CA84C2E39A84%201E2C8043-03D9-4B83-B852-6B82AA8A8BFD%20191C95F1-0AF8-422C-A02A-3206B95B5AFC%204110A679-2C94-4F7A-8166-FEF51A2653F1%20C5A479B3-08DF-4765-8F8D-53EAF38D1180%22&form.session_id=56B51792-7512-42F4-86D2-A9A1FCCCC6B9&form.MenuSearch=*",
+            "section": "Application Links"
+        },
+        {
+            "label": "Allsec",
+            "url": "https://smartpay.buzzily.com/UHGSSO/common/Logout.aspx?e=SE",
+            "section": "Application Links"
+        },
+        {
+            "label": "Architecture Report",
+            "url": "https://uhgazure.sharepoint.com/sites/OptumOC/OCArch/SitePages/Architecture%20Data%20Reports.aspx",
+            "section": "Application Links"
+        },
+        {
+            "label": "Eemaan Tool - Stage",
+            "url": "https://cl2-stg-eemaanpwe.uhc.com/Provisioning/Login",
+            "section": "Application Links"
+        },
+        {
+            "label": "Eemaan Tool - Prod",
+            "url": "https://cl2-eemaanpwe.uhc.com/Provisioning/Login",
+            "section": "Application Links"
+        },
+        {
+            "label": "Omni Channel - Application Links",
+            "url": "https://uhgazure.sharepoint.com/sites/otet-ccs/SRE/SitePages/Application%20Links.aspx",
+            "section": "Application Links"
+        },
+        {
+            "label": "Conv Manager - Splunk",
+            "url": "https://npe-splunk.optum.com/en-US/app/optum_omni_app/conversation_manager_call_analysis_dashboard?form.Environment_token=source%20IN(*)&form.Duration_token.earliest=-24h%40h&form.Duration_token.latest=now&form.token_appType=*&form.Script=OptumFS_IVR&form.TFN=*&form.ANI=*&form.MID=*&form.DOB=*&form.Fname=*&form.Lname=*&form.ProgCode_In_token=*&form.CampCode_In_token=*&form.MenuType=*&form.ProgramCD=*&form.CampaignCD=*&form.Duration=0&form.UCID=*&form.eid=*&form.Script_Status=Success&form.CallType_token=*&form.token_block_duration=0&form.token_CM_ORS_SessionID=*",
+            "section": "Application Links"
+        },
+        {
+            "label": "Update Tracker",
+            "url": "https://akuma874.github.io/Update_Tracker/",
+            "section": "Application Links"
         }
     ]
 }
