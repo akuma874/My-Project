@@ -35,6 +35,8 @@
             padding: 0;
             min-height: 100vh;
             background-attachment: fixed;
+            display: flex;
+            flex-direction: column;
         }
 
         /* Navbar Styles */
@@ -110,6 +112,7 @@
             max-width: 1200px;
             margin: 2.5rem auto;
             padding: 0 1.5rem;
+            flex: 1; /* Pushes footer down */
         }
 
         /* View Panels */
@@ -325,6 +328,31 @@
             width: 100%; height: 100%;
             cursor: pointer;
         }
+
+        /* Footer Styles */
+        .dashboard-footer {
+            background: rgba(15, 23, 42, 0.7);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border-top: 1px solid var(--card-border);
+            padding: 1.25rem;
+            text-align: center;
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            margin-top: auto;
+        }
+
+        .dashboard-footer a {
+            color: #818cf8;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.2s;
+        }
+
+        .dashboard-footer a:hover {
+            color: #a5b4fc;
+            text-decoration: underline;
+        }
     </style>
 </head>
 <body>
@@ -338,7 +366,8 @@
         
         <div id="user-view" class="view-panel active">
             <div id="sections-display" class="sections-container">
-                </div>
+                <div class="no-data"><h3>⌛ Loading configuration database...</h3></div>
+            </div>
         </div>
 
         <div id="admin-view" class="view-panel">
@@ -408,6 +437,10 @@
 
     </div>
 
+    <footer class="dashboard-footer">
+        ℹ️ For any updates and queries, pls contact <strong>Abhishek Kumar</strong> (+91 7290 961 815) or <a href="mailto:abhishek_kumar@optum.com">abhishek_kumar@optum.com</a>.
+    </footer>
+
     <script>
         // Core State Controller
         let dashboardData = {
@@ -428,15 +461,31 @@
         const manageSectionsListEl = document.getElementById('manage-sections-list');
         const manageLinksListEl = document.getElementById('manage-links-list');
 
-        // State Storage Initializer
-        if (localStorage.getItem('uat_dashboard_data')) {
-            dashboardData = JSON.parse(localStorage.getItem('uat_dashboard_data'));
-        } else {
-            dashboardData = {
-                sections: ["Authentication Core Services"],
-                links: [{ label: "Default Sandbox Portal", url: "https://google.com", section: "Authentication Core Services" }]
-            };
-            saveData();
+        // State Storage & Remote JSON Initializer 
+        async function initializeDashboard() {
+            if (localStorage.getItem('uat_dashboard_data')) {
+                dashboardData = JSON.parse(localStorage.getItem('uat_dashboard_data'));
+                renderDashboard();
+            } else {
+                try {
+                    // Pulling from the relative path json file on GitHub repo setup
+                    const response = await fetch('d_data.json');
+                    if (!response.ok) throw new Error('Network file structure not found');
+                    
+                    dashboardData = await response.json();
+                    saveData();
+                    renderDashboard();
+                } catch (error) {
+                    console.warn("Could not load d_data.json automatically, applying default setup:", error);
+                    // Standard fallback schema configuration array fallback structure rules
+                    dashboardData = {
+                        sections: ["Authentication Core Services"],
+                        links: [{ label: "Default Sandbox Portal", url: "https://google.com", section: "Authentication Core Services" }]
+                    };
+                    saveData();
+                    renderDashboard();
+                }
+            }
         }
 
         function saveData() {
@@ -649,7 +698,7 @@
             const dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(dashboardData, null, 4));
             const downloadAnchor = document.createElement('a');
             downloadAnchor.setAttribute("href", dataStr);
-            downloadAnchor.setAttribute("download", "UAT_Links_Dashboard_Backup.json");
+            downloadAnchor.setAttribute("download", "d_data.json");
             document.body.appendChild(downloadAnchor);
             downloadAnchor.click();
             downloadAnchor.remove();
@@ -681,7 +730,7 @@
         }
 
         // Base execution initiation
-        renderDashboard();
+        initializeDashboard();
     </script>
 </body>
 </html>
